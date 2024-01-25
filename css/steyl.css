@@ -1,0 +1,21 @@
+@import "./header/header.css";
+@import "./hero/hero.css";
+@import "./sponsors/sponsors.css";
+@import "./gaming/gaming.css";
+@import "./cloud/cloud.css";
+@import "./galarea/galarea.css";
+@import "./articles/articles.css";
+@import "./community/community.css";
+@import "./remov/remov.css";
+@import "./verebil.css";
+@import "./font.css";
+@import "./responsive/responsive.css";
+
+
+/* @import "./responsive/responsive.mini.css";
+@import "./remov/remov.mini.css";
+@import "./hero/hero.min.css";
+@import "./header/header.min.css";
+@import "./articles/articles.mini.css";
+@import "./header/header.min.css";
+@import "./gaming/gaming.mini.css"; */
